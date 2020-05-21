@@ -1,8 +1,8 @@
-## Portfolio
+## Previous Data Science Projects
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Data Visualisation 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
