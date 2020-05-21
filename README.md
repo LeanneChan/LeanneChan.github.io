@@ -2,7 +2,7 @@ https://leannechan.github.io/
 
 ## Data Science Portfolio 
 
-Hi! I am Leanne. This is a collection of the work I have done so far. The geospatial data science projects here were done while I was a graduate under the MUSA programme at the University of Pennsylvania. I am very grateful for all the guidance and teaching from the professors in MUSA. I have since graduated and hope to continue adding to this collection! 
+Hi! I am Leanne. This is a collection of the projects I have worked on so far. A lot of the geospatial data science projects here were done while I was a graduate under the MUSA programme at the University of Pennsylvania. I am very grateful for all the guidance and teaching from the professors in MUSA. I have since graduated and hope to continue adding to this collection! 
 ___
 
 ### References
