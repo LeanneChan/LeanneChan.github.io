@@ -31,8 +31,7 @@ The following plot shows the price to size for each NYC borough over recent year
 
 
 - Big Data - 3 Million Points, 1 GIF
-![GIF]({{site.url}}{{site.baseurl}}/images/permits_89_19.gif)
-
+![GIF](https://github.com/LeanneChan/LeanneChan.github.io/blob/master/images/permits_89_19.gif)
 ---
 
 ### Webmapping
