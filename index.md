@@ -7,10 +7,10 @@
 #### [Fire Hydrant Inspection Prioritisation Scheme using Predicted Latent Fire Risk](https://pennmusa.github.io/MUSA_801.io/project_12/index.html)
 
 Capstone project for the MUSA800 course in the School of Design, Upenn. The project was to build a inspection prioritization scheme for the Philadelphia Fire Department. 
-<img src="images/latentFire.png?raw=true"/> 
-<h4><a href="https://leannechan.github.io/foodInspect.html" title="Food Inspections">Predicting Food Establishment Inspection Failures in Chicago</a></h4>
+<img src="images/latentFire.png?raw=true"/>  
 *Project with Ran Xin and Li Zi Qun*
 
+<h4><a href="https://leannechan.github.io/foodInspect.html" title="Food Inspections">Predicting Food Establishment Inspection Failures in Chicago</a></h4>
 <img src="images/foodInspectionPlots.png?raw=true"/>  
 <p>Distribution of various risk factors across Chicago.</p>
 <img src="images/foodInspect-ROC.png?raw=true"/> 
