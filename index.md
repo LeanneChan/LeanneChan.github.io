@@ -24,10 +24,14 @@ Predicting Severity of Traffic Accidents in Philadelphia
 
 ### Data Visualisation 
 
-- [Visualising Gentrification in New York City](https://leannechan.github.io/Gentrification-Trends-In-NYC/.)
+- [Visualising Gentrification in New York City](https://leannechan.github.io/Gentrification-Trends-In-NYC/.) 
 Project done together with Yap Yun Qi. 
-- [Big Data - 3 Million Points, 1 GIF]
-<img src="images/premits_89_19.gif?raw=true"/>
+The following plot shows the price to size for each NYC borough over recent years. 
+<img src="images/plot4_Size_to_price_ByBoroughYear?raw=true"/> 
+
+
+- Big Data - 3 Million Points, 1 GIF
+![GIF]({{site.url}}{{site.baseurl}}/images/permits_89_19.gif)
 
 ---
 
