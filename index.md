@@ -19,14 +19,14 @@ Capstone project for the MUSA800 course in the School of Design, Upenn. The proj
 
 <h4><a href="https://leannechan.github.io/sexualAssault.html" title="Sexual Assault">Predicting Geospatial Risk - Sexual Assault Risk in Chicago</a></h4>
 <img src="images/sexual_assault-plots.png?raw=true"/> 
-<p>Plot shows the predictions of counts of sexual assault cases of various models compared to the true count of sexual assault cases. </p>
+<p>Plot shows the predictions of counts of sexual assault cases of various models compared to the true count of sexual assault cases (right).</p>
 
 <h4><a href="https://leannechan.github.io/homePrices.html" title="Home Prices">Predicting Home Prices in San Francisco</a></h4>
 <img src="images/homePrices-plot.png?raw=true"/>
 <p>The plot shows the distribution of predicted home prices compared to observed home prices.</p>
 *Project with Yap Yun Qi*
 
-<h4><a href="https://leannechan.github.io/housingCredit.html" title="Housing Credit">Classification - Predicting Take Up Rates of Housing Credit Programme in Philadelphia to Optimise Cost</a></h4>
+<h4><a href="https://leannechan.github.io/housingCredit.html" title="Housing Credit">Predicting Take Up Rates of Housing Credit Programme in Philadelphia to Optimise Cost</a></h4>
 <img src="images/credit-COSTS.png?raw=true"/> 
 <p> Plot shows fraction of true positive, false positives, true negatives and false negatives as a result of model predictions at different thresholds. </p>
 
