@@ -30,10 +30,9 @@ Capstone project for the MUSA800 course in the School of Design, Upenn. The proj
 <img src="images/credit-COSTS.png?raw=true"/> 
 <p> Plot shows fraction of true positive, false positives, true negatives and false negatives as a result of model predictions at different thresholds. </p>
 
-#### Predicting Severity of Traffic Accidents in Philadelphia 
+#### [Predicting Severity of Traffic Accidents in Philadelphia](/pdf/CIS_519_Project_Report.pdf) 
 <img src="images/EasyEnsemble.png?raw=true"/>
-
-[Report](/pdf/CIS_519_Project_Report.pdf) | [Summary Sldies](/pdf/cis519_summary_slides.pdf)
+[Summary Sldies](/pdf/cis519_summary_slides.pdf)
 
 ---
 ### Data Visualisation 
