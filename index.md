@@ -56,10 +56,7 @@ Application built as part of the machine learning project to build a fire hydran
 - [Recycling Points in Singapore](https://leannechan.github.io/MUSA611_Midterm/)
 <img src="images/recycling.png?raw=true"/> 
 
-
-
-
-
+<br>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
