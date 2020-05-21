@@ -4,40 +4,39 @@
 
 ### Machine Learning
 
-- [Fire Hydrant Inspection Prioritisation Scheme using Predicted Latent Fire Risk](https://pennmusa.github.io/MUSA_801.io/project_12/index.html) 
+#### [Fire Hydrant Inspection Prioritisation Scheme using Predicted Latent Fire Risk](https://pennmusa.github.io/MUSA_801.io/project_12/index.html)
 
-###### Capstone project for the MUSA800 course in the School of Design, Upenn. The project was to build a inspection prioritization scheme for the Philadelphia Fire Department. 
+Capstone project for the MUSA800 course in the School of Design, Upenn. The project was to build a inspection prioritization scheme for the Philadelphia Fire Department. 
 <img src="images/latentFire.png?raw=true"/> 
 
-- <a href="https://leannechan.github.io/foodInspect.html" title="Food Inspections">Predicting Food Establishment Inspection Failures in Chicago</a> 
+<h4><a href="https://leannechan.github.io/foodInspect.html" title="Food Inspections">Predicting Food Establishment Inspection Failures in Chicago</a></h4>
 
-###### Project done with Yap Yun Qi. 
+<p>Project done with Yap Yun Qi.</p>
 <img src="images/foodInspectionPlots.png?raw=true"/>  
-###### Distribution of various risk factors across Chicago.
+<p>Distribution of various risk factors across Chicago.</p>
 <img src="images/foodInspect-ROC.png?raw=true"/> 
-###### ROC Curve - A measure of performance of the classification model. 
+<p> ROC Curve - A measure of performance of the classification model.</p>
 
-- <a href="https://leannechan.github.io/sexualAssault.html" title="Sexual Assault">Predicting Geospatial Risk - Sexual Assault Risk in Chicago</a>
+<h4><a href="https://leannechan.github.io/sexualAssault.html" title="Sexual Assault">Predicting Geospatial Risk - Sexual Assault Risk in Chicago</a></h4>
 <img src="images/sexual_assault-plots.png?raw=true"/> 
-###### Plot shows the predictions of counts of sexual assault cases of various models compared to the true count of sexual assault cases. 
+<p>Plot shows the predictions of counts of sexual assault cases of various models compared to the true count of sexual assault cases. </p>
 
-- <a href="https://leannechan.github.io/homePrices.html" title="Home Prices">Predicting Home Prices in San Francisco</a>
-<img src="images/homePrices-plot.png?raw=true"/> 
-###### The plot shows the distribution of predicted home prices compared to observed home prices.
+<h4><a href="https://leannechan.github.io/homePrices.html" title="Home Prices">Predicting Home Prices in San Francisco</a>
+<img src="images/homePrices-plot.png?raw=true"/></h4>
+<p>The plot shows the distribution of predicted home prices compared to observed home prices.</p>
 
-- <a href="https://leannechan.github.io/housingCredit.html" title="Housing Credit">Classification - Predicting Take Up Rates of Housing Credit Programme in Philadelphia to Optimise Cost</a>
+<h4><a href="https://leannechan.github.io/housingCredit.html" title="Housing Credit">Classification - Predicting Take Up Rates of Housing Credit Programme in Philadelphia to Optimise Cost</a></h4>
 <img src="images/credit-COSTS.png?raw=true"/> 
-###### Plot shows fraction of true positive, false positives, true negatives and false negatives as a result of model predictions at different thresholds. 
+<p> Plot shows fraction of true positive, false positives, true negatives and false negatives as a result of model predictions at different thresholds. </p>
 
 ---
-Predicting Severity of Traffic Accidents in Philadelphia 
+#### Predicting Severity of Traffic Accidents in Philadelphia 
 
 [Report](/pdf/CIS_519_Project_Report.pdf) 
 
 [Summary Sldies](/pdf/cis519_summary_slides.pdf)
 
 ---
-
 ### Data Visualisation 
 
 - [Visualising Gentrification in New York City](https://leannechan.github.io/Gentrification-Trends-In-NYC/.) 
@@ -49,8 +48,8 @@ The following plot shows the price to size for each NYC borough over recent year
 - Handling Big Data - 3 Million Points, 1 GIF
 
 ![GIF](./images/permits_89_19.gif)
----
 
+---
 ### Webmapping
 
 - [Hydrant Inspector Application](https://njxinran95.github.io/PhillyFire_App/) 
