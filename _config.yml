@@ -3,7 +3,7 @@ logo: "/images/profile-pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm interested in using data science for public policy!<br /> 
   Bachelor of Science in Mathematics and Economics, Master of Urban Spatial Analytics. 
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/leanne-chan-585a26130/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
