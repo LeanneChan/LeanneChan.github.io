@@ -1,4 +1,4 @@
-## Data Science Projects
+## Portfolio - Data Science Projects
 
 ---
 
@@ -7,7 +7,7 @@
 [Fire Hydrant Inspection Prioritisation Scheme using Predicted Latent Fire Risk](https://pennmusa.github.io/MUSA_801.io/project_12/index.html) 
 Capstone project for the MUSA800 course in the School of Design, Upenn. The project was to build a inspection prioritization scheme for the Philadelphia Fire Department. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/latentFire.png?raw=true"/> 
 
 ---
 [Predicting Food Establishment Inspection Failures in Chicago](/pdf/sample_presentation.pdf)
@@ -37,8 +37,11 @@ The following plot shows the price to size for each NYC borough over recent year
 ### Webmapping
 
 - [Hydrant Inspector Application](https://njxinran95.github.io/PhillyFire_App/) 
+
 Application built as part of the machine learning project to build a fire hydrant inspection scheme for the Philadelphia Fire Department. 
+<img src="images/hydrantInspector.png?raw=true"/> 
 - [Recycling Points in Singapore](https://leannechan.github.io/MUSA611_Midterm/)
+<img src="images/recycling.png?raw=true"/> 
 
 ---
 
