@@ -13,7 +13,13 @@ Capstone project for the MUSA800 course in the School of Design, Upenn. The proj
 <a href="https://leannechan.github.io/foodInspect.html" title="Food Inspections">Predicting Food Establishment Inspection Failures in Chicago</a>
 
 ---
-[Predicting Sexual Assault Risk in Chicago](http://example.com/)
+<a href="https://leannechan.github.io/sexualAssault.html" title="Sexual Assault">Predicting Geospatial Risk - Sexual Assault Risk in Chicago</a>
+
+---
+<a href="https://leannechan.github.io/homePrices.html" title="Home Prices">Predicting Home Prices in San Francisco</a>
+
+--- 
+<a href="https://leannechan.github.io/housingCredit.html" title="Housing Credit">Classification - Predicting Take Up Rates of Housing Credit Programme in Philadelphia to Optimise Cost</a>
 
 ---
 Predicting Severity of Traffic Accidents in Philadelphia 
